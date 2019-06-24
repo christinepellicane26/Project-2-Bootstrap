@@ -13,6 +13,18 @@ img {
 }
 
 
+body {
+     background: url(https://4my3boyz.com/content/images/thumbs/0012179_landscape-medley-beautiful-blue-sky-clouds-and-rainbows-cotton-fabric_500.jpeg) no-repeat;
+     width: 100%;
+     height: 100%;
+     background-size: contain;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+      background-position: top;
+      background-size: auto;
+   }
+
 p {
 
   padding-top: 10%;
